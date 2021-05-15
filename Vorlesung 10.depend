@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1621102562 source:c:\users\jjgon\documents\c projects\vorlesung\read files and malloc\vorlesung 10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers.h"
+
+1621100974 c:\users\jjgon\documents\c projects\vorlesung\read files and malloc\vorlesung 10\headers.h
+	<stdio.h>
+
+1621103237 source:c:\users\jjgon\documents\c projects\vorlesung\read files and malloc\vorlesung 10\underprogram.c
+	<stdio.h>
+	"headers.h"
+
